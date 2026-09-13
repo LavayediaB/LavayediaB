@@ -1,9 +1,7 @@
 ## Hi there 👋
 Hi, I’m Lavayedia 👋
 
-I’m a Mathematics and Statistics student based in South Africa, working at the intersection of quantitative modeling, credit risk, and data engineering.
-
-My background spans building automated data pipelines for legal portfolios, modeling portfolio sensitivity against macroeconomic shocks (Repo Rate and USD/ZAR currency fluctuations), and designing executive analytics dashboards in Power BI. Currently, I’m deepening my focus on stochastic processes, credit risk modeling, and preparing for actuarial qualifications.
+I’m a Mathematics and Statistics student based in South Africa, and I am interested in the intersection of quantitative modeling, credit risk, and data engineering.
 
 🛠 Tech Stack & Tools:
 
@@ -15,22 +13,7 @@ Key Interests: Credit Risk Modeling, Actuarial Science, Financial Time Series, W
 
 📌 What I’m Currently Building:
 
-Multi-asset portfolio sensitivity engines using Monte Carlo simulations
+📫 Connect with me: LinkedIn: https://www.linkedin.com/in/lavayedia-b-9741741a5/
+                    Email: lavayedia@gmail.com
 
-End-to-end Power BI dashboards tracking operational performance and SLA analytics
-
-📫 Connect with me: LinkedIn | Email
-<!--
-**LavayediaB/LavayediaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of studying, I love to read (I prefer classic novels and thrillers/mysteries), watch movies, and bake! I believe that everyone has a unique perspective on how to problem solve and I'd love to chat about data analytics, quantitative finance, or industry trends.
