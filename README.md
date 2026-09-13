@@ -14,7 +14,7 @@ Visualization & Deployment: Power BI, Streamlit, Git
 📫 Connect with me: LinkedIn: https://www.linkedin.com/in/lavayedia-b-9741741a5/
                     Email: lavayedia@gmail.com
 
-Outside of studying, I love to read (I prefer classic novels and thrillers/mysteries), watch movies, and bake! I believe that everyone has a unique perspective on how to problem solve and I'd love to chat about data analytics, quantitative finance, or industry trends.
+Outside of studying, I love to read (I prefer classic novels and thrillers/mysteries), watch movies, and bake! I believe that everyone has a unique perspective on how to problem solve and I'd love to chat about data analytics, quantitative finance, industry trends, or your best brownie recipe!
 
 Here are some projects I completed recently: 
 
