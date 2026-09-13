@@ -1,15 +1,13 @@
 ## Hi there 👋
 Hi, I’m Lavayedia 👋
 
-I’m a Mathematics and Statistics student based in South Africa, and I am interested in the intersection of quantitative modeling, credit risk, and data engineering.
+I’m a Mathematics and Statistics student based in South Africa, and I am interested in the intersection of quantitative modeling, credit risk, and data science.
 
 🛠 Tech Stack & Tools:
 
 Data & Analytics: Python (pandas, NumPy, SciPy, Statsmodels), SQL (BigQuery), R, Excel VBA
 
 Visualization & Deployment: Power BI, Streamlit, Git
-
-Key Interests: Credit Risk Modeling, Actuarial Science, Financial Time Series, Workflow Automation
 
 📌 What I’m Currently Building:
 
